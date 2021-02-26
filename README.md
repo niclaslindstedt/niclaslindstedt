@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=380&section=header&text=Howdy%20🤠&fontSize=80&fontAlign=60&fontAlignY=35&rotate=25)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=380&section=header&text=Howdy%20🤠&fontSize=80&fontAlign=60&fontAlignY=35&rotate=23)
 
 ↖️ Hit follow to see all my spicy commits!<br />
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/niclaslindstedt/)<br />
