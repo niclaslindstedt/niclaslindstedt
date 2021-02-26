@@ -1,9 +1,9 @@
 Welcome to my profile 🤠
 
-↙️ Hit follow to see all my spicy commits!<br />
-🤝 Connect with me at [LinkedIn](https://www.linkedin.com/in/niclaslindstedt/)<br />
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/niclaslindstedt/)<br />
 👀 See my Docker images at [DockerHub](https://hub.docker.com/u/niclaslindstedt)<br />
-🎓 Currently learning OpenId Connect (see [etimo-id](https://github.com/Etimo/etimo-id))
+🎓 Currently learning [OpenId Connect](https://openid.net/connect/) (see [etimo-id](https://github.com/Etimo/etimo-id))
+↙️ Hit follow to see all my spicy commits!<br />
 
 Some repository highlights:<br />
 ⭐ [etimo-id](https://github.com/Etimo/etimo-id) -- a dotnet 5 implementation of OAuth2<br />
