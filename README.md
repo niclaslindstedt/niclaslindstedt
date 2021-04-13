@@ -7,6 +7,7 @@
 
 Some repository highlights:<br />
 ⭐ [etimo-id](https://github.com/Etimo/etimo-id) -- a dotnet 5 implementation of OAuth2<br />
+⭐ [docker-backup](https://github.com/niclaslindstedt/docker-backup) -- backup your Docker volumes with ease<br />
 ⭐ [Fortress One](https://github.com/FortressOne/server-qwprogs) -- a modern version of the original Team Fortress mod for QuakeWorld<br />
 ⭐ [nQuake client](https://github.com/nQuake/client-win32) -- a QuakeWorld client package for Windows<br />
 ⭐ [nQuake server](https://github.com/nQuake/server-linux) -- a QuakeWorld server package for Linux<br />
