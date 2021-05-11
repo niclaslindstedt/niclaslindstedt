@@ -13,3 +13,14 @@ Some repository highlights:<br />
 ⭐ [nQuake server](https://github.com/nQuake/server-linux) -- a QuakeWorld server package for Linux<br />
 ⭐ [nQuake server Docker](https://hub.docker.com/r/niclaslindstedt/nquakesv) -- a Docker image of nQuake server<br />
 ⭐ [activitylogger](https://github.com/niclaslindstedt/activitylogger) -- an activity logger for Windows written in C#<br />
+
+<br>
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=niclaslindstedt&theme=dracula&show_icons=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=niclaslindstedt&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaslindstedt&theme=dracula">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaslindstedt&theme=dracula" />
+</a>
+</div>
