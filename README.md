@@ -6,6 +6,7 @@
 🎓 Currently learning [OpenId Connect](https://openid.net/connect/) (see [etimo-id](https://github.com/Etimo/etimo-id))<br />
 
 Some repository highlights:<br />
+⭐ [etimo-achievements](https://github.com/Etimo/etimo-achievements) -- a react/node achievement system for Slack<br />
 ⭐ [etimo-id](https://github.com/Etimo/etimo-id) -- a dotnet 5 implementation of OAuth2<br />
 ⭐ [docker-backup](https://github.com/niclaslindstedt/docker-backup) -- backup your Docker volumes with ease<br />
 ⭐ [Fortress One](https://github.com/FortressOne/server-qwprogs) -- a modern version of the original Team Fortress mod for QuakeWorld<br />
