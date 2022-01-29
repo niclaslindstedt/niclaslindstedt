@@ -7,13 +7,13 @@
 
 Some repository highlights:<br />
 ⭐ [etimo-achievements](https://github.com/Etimo/etimo-achievements) -- a react/node achievement system for Slack<br />
-<!--⭐ [dotnet-oauth2-server](https://github.com/niclaslindstedt/dotnet-oauth2-server) -- a dotnet 5 implementation of OAuth2<br />-->
 ⭐ [docker-backup](https://github.com/niclaslindstedt/docker-backup) -- backup your Docker volumes with ease<br />
 ⭐ [Fortress One](https://github.com/FortressOne/server-qwprogs) -- a modern version of the original Team Fortress mod for QuakeWorld<br />
 ⭐ [nQuake client](https://github.com/nQuake/client-win32) -- a QuakeWorld client package for Windows<br />
 ⭐ [nQuake server](https://github.com/nQuake/server-linux) -- a QuakeWorld server package for Linux<br />
 ⭐ [nQuake server Docker](https://hub.docker.com/r/niclaslindstedt/nquakesv) -- a Docker image of nQuake server<br />
 ⭐ [activitylogger](https://github.com/niclaslindstedt/activitylogger) -- an activity logger for Windows written in C#<br />
+<!--⭐ [dotnet-oauth2-server](https://github.com/niclaslindstedt/dotnet-oauth2-server) -- a dotnet 5 implementation of OAuth2<br />-->
 
 <br>
 
