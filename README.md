@@ -6,7 +6,7 @@
 
 Some repository highlights:<br />
 ⭐ [etimo-achievements](https://github.com/Etimo/etimo-achievements) -- a React + NodeJS achievement system for Slack<br />
-⭐ [etimo-id](https://github.com/Etimo/etimo-id) -- an OAuth2-compliant .NET API<br />
+⭐ [dotnet-oauth2-server](https://github.com/niclaslindstedt/dotnet-oauth2-server) -- an OAuth2-compliant .NET API<br />
 ⭐ [docker-backup](https://github.com/niclaslindstedt/docker-backup) -- very light-weight Docker backup system written in Bash<br />
 ⭐ [Fortress One](https://github.com/FortressOne/server-qwprogs) -- a modern version of the original Team Fortress mod for QuakeWorld<br />
 ⭐ [nQuake client](https://github.com/nQuake/client-win32) -- a QuakeWorld client package for Windows<br />
